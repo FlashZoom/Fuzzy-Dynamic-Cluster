@@ -1,6 +1,10 @@
 # Fuzzy-Dynamic-Cluster
 Python implementation of fuzzy dynamic cluster using direct cluster method
 
+Requirement
+Python 3.6.7
+Numpy 1.15.4
+
 1. Data standardisation
   Here using the Max value standardisation method
 ![p1](https://github.com/FlashZoom/Fuzzy-Dynamic-Cluster/blob/master/Picture/Max%20value%20standardisation%20method.png)
