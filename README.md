@@ -18,4 +18,8 @@ Python implementation of fuzzy dynamic cluster using direct cluster method
 
 7. select the best result of cluster by using the F-S function
 ![p3](https://github.com/FlashZoom/Fuzzy-Dynamic-Cluster/blob/master/Picture/F-S%20function.png)
+
 8. Output result
+![result2](https://github.com/FlashZoom/Fuzzy-Dynamic-Cluster/blob/master/Picture/result2.jpg)
+
+![result1](https://github.com/FlashZoom/Fuzzy-Dynamic-Cluster/blob/master/Picture/result1.jpg)
