@@ -7,6 +7,7 @@ Python implementation of fuzzy dynamic cluster using direct cluster method
 2. Create fuzzy alike matrix
 
 ![p2](https://github.com/FlashZoom/Fuzzy-Dynamic-Cluster/blob/master/Picture/Create%20fuzzy%20alike%20matrix.png)
+
 3. Get confidence level lambda
 
 4. Merge alike class
