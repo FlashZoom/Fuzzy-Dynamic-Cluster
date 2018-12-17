@@ -3,8 +3,7 @@ Python implementation of fuzzy dynamic cluster using direct cluster method
 
 Requirement
 
-Python 3.6.7
-Numpy 1.15.4
+Python 3.6.7     Numpy 1.15.4
 
 
 1. Data standardisation
